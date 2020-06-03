@@ -6,6 +6,9 @@ This website is a recompilation of resources for those who want to be part of th
 - Mutual Aid Austin venmo $mutualaidaustin
 ### Pro-bono lawyers
 
+## Dallas, TX
+### Organizations
+### Pro-bono Legal Services
 
 ## Houston, TX
 ### Organizations
@@ -24,9 +27,10 @@ BLM https://BLMHOUSTON.com/
 - Adam Capetillo (346)420-4069
 - Tim Greene (713)293-8839
 
-## Dallas, TX
+## San Antonio, TX
 ### Organizations
 ### Pro-bono Legal Services
+
 
 ## Chicago, IL
 ### Organizations
