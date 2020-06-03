@@ -1,5 +1,5 @@
 # #BlackLivesMatter Resources Compilation
-This website is a recompilation of resources for those who want to be part of the change. Here you will find community compiled organizations that you can donate to as well as pro-bono legal services in your city. If you can't go out and protestm DONATE! if you can't donate, compile reliable resources in your city and post them using the hastag #mutualaidusaBLM this will help us identify them and add them to the list. 
+This website is a compilation of resources for those who want to be part of the change. Here you will find community compiled organizations that you can donate to as well as pro-bono legal services in your city. If you can't go out and protest, DONATE! if you can't donate, compile reliable resources in your city and post them using the hashtag #mutualaidusaBLM this will help us identify them and add them to the list. 
 
 ## Austin, TX
 ### Organizations
@@ -33,6 +33,10 @@ BLM https://BLMHOUSTON.com/
 
 
 ## Chicago, IL
+### Organizations
+### Pro-bono Legal Services
+
+## Minneapolis, MN
 ### Organizations
 ### Pro-bono Legal Services
 
