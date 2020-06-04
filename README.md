@@ -101,8 +101,13 @@ Travis county (T), Williamson County (W)
 ### Pro-bono Legal Services
 - Sawyer & Sirianni, PLLC (903)432-5380 (reduced rates)
 
-## Chicago, IL
+## Illinois
 ### Organizations
+- Chicago Community Bond Fund https://chicagobond.org/
+- Assata’s Daughters https://www.assatasdaughters.org/our-politics-2019
+- Champaign County Bailout Coalition https://champaigncountybailoutcoalition.wordpress.com/donate/
+- Winnebago Bond Project https://www.wincoilbondproject.org/donate
+
 ### Pro-bono Legal Services
 
 ## Minneapolis, MN
@@ -115,6 +120,7 @@ Travis county (T), Williamson County (W)
 
 ## Los Angeles, CA
 ### Organizations
+- Action Bail Fund LA: https://secure.actblue.com/donate/wp4bl
 ### Pro-bono Legal Services
 
 ## Seattle, WA
