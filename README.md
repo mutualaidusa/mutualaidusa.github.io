@@ -8,6 +8,9 @@ This website is a compilation of resources for those who want to be part of the 
 ## Bail out Funds
 https://www.autostraddle.com/43-bail-funds-you-can-absolutely-support-right-now/
 
+## Para los hablantes de Español
+https://lasvidasnegrasimportan.carrd.co/
+
 ## Austin, TX
 ### Organizations
 - Mutual Aid Austin venmo $mutualaidaustin
