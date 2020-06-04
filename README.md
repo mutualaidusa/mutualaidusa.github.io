@@ -5,6 +5,9 @@ This website is a compilation of resources for those who want to be part of the 
 - Cashapp $btfacollective
 - Paypal btfacollective@gmail.com
 
+## Bail out Funds
+https://www.autostraddle.com/43-bail-funds-you-can-absolutely-support-right-now/
+
 ## Austin, TX
 ### Organizations
 - Mutual Aid Austin venmo $mutualaidaustin
