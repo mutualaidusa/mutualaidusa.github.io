@@ -1,11 +1,27 @@
 # #BlackLivesMatter Resources Compilation
 This website is a compilation of resources for those who want to be part of the change. Here you will find community compiled organizations that you can donate to as well as pro-bono legal services in your city. If you can't go out and protest, DONATE! if you can't donate, compile reliable resources in your city and post them using the hashtag #mutualaidusaBLM this will help us identify them and add them to the list. 
 
+## Black Trans Protestors Emergency Fund 
+- Cashapp $btfacollective
+- Paypal btfacollective@gmail.com
+
 ## Austin, TX
 ### Organizations
 - Mutual Aid Austin venmo $mutualaidaustin
+- Austin Justice Coaltion
+- NAACP Austin Donation
+- Brave Communities
+- Measure Austin
+- Community Advocacy & Healing Project
+- Black Mammas ATX
+- Six Square ATX
+- Fundraiser for Brad Levi Ayala
+- Fundraiser for Mike Ramos Fund 
+- Fundraiser for Nemo Martin
+
+
 ### Pro-bono lawyers
-Travis county T, Williamson County W
+Travis county (T), Williamson County (W)
 - Tycha Kimbrough (469)527-4100 (T)
 - Eric Shinn (512)934-2889
 - Julie Pennington (512)777-1420
@@ -19,6 +35,10 @@ Travis county T, Williamson County W
 
 ## Dallas, TX
 ### Organizations
+- Next Generation Action-Network
+- Faith in Texas 
+- Community Bail Fund of North Texas
+
 ### Pro-bono Legal Services
 - Jasmine Crockett (469)527-4100
 - Dax Garvin (512)482-0900
@@ -34,7 +54,11 @@ Travis county T, Williamson County W
 
 ## Houston, TX
 ### Organizations
-BLM https://BLMHOUSTON.com/
+- BLM https://BLMHOUSTON.com/
+- Restoring Justice
+- Houston Bail Fund
+- Pure Justice
+
 ### Pro-bono Legal Services
 - Eric Sundin (281)281-3574
 - Charles Adams (281)412-4151
@@ -51,6 +75,8 @@ BLM https://BLMHOUSTON.com/
 
 ## San Antonio, TX
 ### Organizations
+- San Antonio Freedom Fund
+
 ### Pro-bono Legal Services
 - Theodore Wenske (210)858-7997
 - Ricardo Briones (210)227-1515
